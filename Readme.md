@@ -1,4 +1,4 @@
-    Exercícios:
+Exercícios:
 
 001 - 
     Faça aparecer a mensagem "Olá, Mundo" na tela.
