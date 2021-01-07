@@ -1,9 +1,5 @@
 # @author: lucvsbraga
 
-'''
-Faça um programa que leia um número inteiro qualquer e mostre sua tabuada na tela.
-'''
-
 num = int(input('Digite um número inteiro: '))
 
 print(f'{num}  x  1 = {num * 1}')

@@ -1,9 +1,4 @@
 # @author: lucvsbraga
-
-'''
-Escreva um programa que sorteie um nome
-'''
-
 import random
 
 

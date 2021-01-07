@@ -1,9 +1,4 @@
 # @author: lucvsbraga
-
-'''
-Mostre o menor e maior número entre os 3 informados pelo usuário.
-'''
-
 num = []
 
 num.append(float(input('Primeiro número: ')))

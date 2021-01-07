@@ -1,9 +1,5 @@
 # @author: lucvsbraga
 
-'''
-Crie um algorítmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
-'''
-
 import math
 num = input('Digite um número: ')
 raiz = math.sqrt(float(num))

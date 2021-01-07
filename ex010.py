@@ -1,9 +1,5 @@
 # @author: lucvsbraga
 
-'''
-Escreva um algorítimo conversor de moedas.
-'''
-
 real = float(input('Digite o valor em reais: R$ '))
 dolar = float(input('Cotação do dólar: USD '))
 

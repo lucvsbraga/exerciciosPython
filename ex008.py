@@ -1,9 +1,5 @@
 # @author: lucvsbraga
 
-'''
-Escreva um programa que leia um valor em metros e o exiba convertido em:
-km, hm, dam, m, dm, cm, mm
-'''
 
 metros = int(input('Digite a medida em metros: '))
 

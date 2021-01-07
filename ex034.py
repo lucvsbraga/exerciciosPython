@@ -1,10 +1,5 @@
 # @author: lucvsbraga
 
-'''
-Escreva um programa que pergunte o salário do funciońario e dê um algumento de 15% caso seu salário
-seja menor ou igual à 1250 e 10% caso seja maior.
-'''
-
 salario = float(input('Salário: '))
 print('-' * 12)
 

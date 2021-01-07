@@ -1,8 +1,5 @@
 # @author: lucvsbraga
 
-'''
-Desenvolva um programa que diga se um ano é bissexto ou não.
-'''
 from datetime import date
 print('Digite 0 para analisar o ano atual.')
 ano = int(input('Ano: '))

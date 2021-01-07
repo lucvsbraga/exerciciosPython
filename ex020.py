@@ -1,8 +1,4 @@
 # @author: lucvsbraga
-
-'''
-Escreva um programa que sorteie uma ordem em uma lista.
-'''
 from random import shuffle
 
 lista = []
