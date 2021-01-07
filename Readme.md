@@ -1,7 +1,7 @@
+Exercícios disponíveis no canal <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-">Curso em Vídeo</a>
 Exercícios:
 
-001 - 
-    Faça aparecer a mensagem "Olá, Mundo" na tela.
+001 - Faça aparecer a mensagem "Olá, Mundo" na tela.
 
 002 - Responda o usuário com uma mensagem personalizada.
 
