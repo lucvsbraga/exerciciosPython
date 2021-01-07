@@ -1,6 +1,7 @@
     Exercícios:
 
-001 - Faça aparecer a mensagem "Olá, Mundo" na tela.
+001 - 
+    Faça aparecer a mensagem "Olá, Mundo" na tela.
 
 002 - Responda o usuário com uma mensagem personalizada.
 
