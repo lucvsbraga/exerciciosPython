@@ -1,9 +1,9 @@
 # @author: lucvsbraga
 
 '''
-Escreva um algorítmo em python que reproduza um arquivo mp3.
+Escreva um algoritmo em python que reproduza um arquivo mp3.
 '''
 
 import playsound
 
-playsound.playsound('denso.mp3')
+playsound.playsound('aint no pressure.mp3')
