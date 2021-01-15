@@ -1,6 +1,7 @@
 Exercícios disponíveis no canal <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-">Curso em Vídeo</a>.
 
 Exercício Python #001 - Deixando tudo pronto
+
 Exercício Python #002 - Respondendo ao Usuário
 Exercício Python #003 - Somando dois números
 Exercício Python #004 - Dissecando uma Variável
