@@ -1,4 +1,4 @@
 # @author: lucvsbraga
 import playsound
 
-playsound.playsound('aint no pressure.mp3')
+playsound.playsound('som.wav')
