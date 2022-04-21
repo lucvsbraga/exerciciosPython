@@ -4,7 +4,7 @@ produto = []
 preco = []
 
 while True:
-    os.system('clear')
+    os.system('cls')
     produto.append(input('Nome: '))
     preco.append(float(input('Preço: ')))
 
@@ -16,7 +16,7 @@ while True:
 
 menor = preco.index(min(preco))
 
-os.system('clear')
+os.system('cls')
 for i in range(len(preco)):
     if preco[i] > 1000:
         print(f'Nome: {produto[i]} R${preco[i]:.2f} <= *produtos acima de 1k')    

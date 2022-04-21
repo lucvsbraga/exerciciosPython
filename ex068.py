@@ -19,19 +19,19 @@ while True:
         
     if choice == 'P' and (pc + n) % 2 == 0:
         c += 1
-        os.system('clear')
+        os.system('cls')
         print(f'Você escolheu: P')
         print(f'Você: {n} | PC: {pc}')
         print(f'Você ganhou. [{c}]')                
     elif choice == 'I' and (pc + n) % 2 == 1:
         c += 1
-        os.system('clear')
+        os.system('cls')
         print(f'Você escolheu: I')
         print(f'Você: {n} | PC: {pc}')
         print(f'PC: {pc}')
         print(f'Você ganhou. [{c}]')
     else:
-        os.system('clear')
+        os.system('cls')
         print(f'Você escolheu: {choice}')
         print(f'Você: {n} | PC: {pc}')
         print(f'Você perdeu após {c} vitórias.')  

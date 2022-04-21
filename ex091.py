@@ -15,7 +15,7 @@ for k, v in jogador.items():
     print(f'{k} tirou {v}')
     sleep(0.45)
 
-os.system('clear')
+os.system('cls')
 print('== RANKING ==')
 
 for i, v in enumerate(ranking):

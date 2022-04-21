@@ -13,6 +13,6 @@ else:
     aluno['Situação'] = 'Aprovado'
 
 
-os.system('clear')
+os.system('cls')
 for k, v in aluno.items():
     print(f'{k}: {v}')

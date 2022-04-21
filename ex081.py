@@ -14,7 +14,7 @@ while True:
     else:
         print('Opção inválida.')
         break
-    os.system('clear')
+    os.system('cls')
 print(f'Você digitou {len(lista)} números.')
 if 5 in lista:
     print(f'O número 5 está na {lista.index(5)+1}ª posição.')

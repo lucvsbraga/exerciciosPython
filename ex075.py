@@ -3,7 +3,7 @@ import os
 
 tupla = (int(input('Digite o primeiro valor: ')), int(input('Digite o segundo valor: ')), int(input('Digite o terceiro valor:')), int(input('Digite o quarto valor: ')))
 
-os.system('clear')
+os.system('cls')
 print(tupla)
 print(f'Número de vezes que o nove aparece: {tupla.count(9)}')
 

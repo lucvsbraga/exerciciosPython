@@ -4,7 +4,7 @@ h = 0
 m20 = 0
 adulto = 0
 while True:
-    os.system('clear')
+    os.system('cls')
     print('C A D A S T R O   D E   P E S S O A S')
     idade = int(input('Idade: '))
     sexo = input('Sexo (F/M): ')
@@ -17,7 +17,7 @@ while True:
 
     opcao = input('Deseja continuar? (S/N): ')
     if opcao in 'Nn':
-        os.system('clear')
+        os.system('cls')
         break
 
 
